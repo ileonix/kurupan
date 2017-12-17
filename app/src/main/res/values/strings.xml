@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kurupan</string>
+    <string-array name="state_type">
+        <item>ใช้งาน</item>
+        <item>ชำรุด</item>
+        <item>ไม่จำเป็น</item>
+        <item>หาไม่พบ</item>
+    </string-array>
+    <string-array name="major_type">
+        <item>วิศวกรรมเครื่องกล</item>
+        <item>วิศวกรรมเคมี</item>
+        <item>วิศวกรรมโยธา</item>
+        <item>วิศวกรรมคอมพิวเตอร์</item>
+        <item>วิศวกรรมอุตสาหการ</item>
+        <item>วิศวกรรมไฟฟ้า</item>
+        <item>วิศวกรรมชีวการแพทย์</item>
+    </string-array>
+</resources>
